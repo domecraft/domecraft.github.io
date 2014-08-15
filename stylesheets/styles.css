@@ -51,6 +51,11 @@ strong {
   font-weight: 700;
 }
 
+.contact {
+  font-weight:bold;
+  text-decoration:underline;
+}
+
 header {
   -webkit-border-radius: 8px 8px 0 0;
   -moz-border-radius: 8px 8px 0 0;
