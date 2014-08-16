@@ -22,8 +22,8 @@
   <script>
   $(function() {
     $(".accordion").accordion({collapsible: true, active: false});
-    $("#contact").click(function() {
-      $(".blind").toggle( "clip" );
+    $(".blind").click(function() {
+      $("#contact").toggle( "clip" );
     });
   });
   </script>
@@ -84,10 +84,10 @@ If you would like, you can check out my repositories and contribute to them.
 </div>
 <br>
 
-<div id ="contact">
+<div class ="blind">
 <h3>Click here for contact information:</h3>
 </div>
-<div class ="blind">
+<div id ="contact">
 <ul>
   <li class ="contact"><a href ="mailto:cdurr@avc.edu">Email: cdurr@avc.edu</a></li>
   <li class ="contact"><a href ="http://stackoverflow.com/users/2827648/domecraft">Stack Overflow</a></li>
