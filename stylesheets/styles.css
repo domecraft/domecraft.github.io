@@ -35,10 +35,10 @@ body {
   display: none;
 }
 #clickContact{
-  color: #00CC00;
+  color: #00FF99;
 }
 #clickContact:hover{
-  color: #003300;
+  color: #33CC33;
 }
 header, section, footer {
   display: block;
