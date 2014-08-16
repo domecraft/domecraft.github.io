@@ -31,7 +31,9 @@ body {
   -moz-box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
   box-shadow: rgba(0, 0, 0, 0.2) 0 0 0 1px, rgba(0, 0, 0, 0.45) 0 3px 10px;
 }
-
+#contact{
+  visibility:hidden;
+}
 header, section, footer {
   display: block;
 }
@@ -281,6 +283,8 @@ th {
 small {
   font-size: 11px;
 }
+
+
 
 hr {
   border: 0;
