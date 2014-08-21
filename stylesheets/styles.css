@@ -40,6 +40,12 @@ body {
 #clickContact:hover{
   color: #33CC33;
 }
+#photoToggle{
+  color:blue;
+}
+#photoToggle:hover{
+  color:green;
+}
 header, section, footer {
   display: block;
 }
