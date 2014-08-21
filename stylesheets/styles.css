@@ -41,7 +41,7 @@ body {
   color: #33CC33;
 }
 #photoToggle{
-  color:green;
+  color:red;
 }
 #photoToggle:hover{
   color:blue;
