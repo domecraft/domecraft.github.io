@@ -45,6 +45,7 @@ body {
 }
 #photoToggle:hover{
   color:blue;
+  font-style: italic;
 }
 header, section, footer {
   display: block;
