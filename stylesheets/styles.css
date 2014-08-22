@@ -41,10 +41,10 @@ body {
   color: #33CC33;
 }
 #photoToggle{
-  color:red;
+  color: #4672DA;
 }
 #photoToggle:hover{
-  color:blue;
+  color: #1F46A1;
   font-style: italic;
 }
 header, section, footer {
