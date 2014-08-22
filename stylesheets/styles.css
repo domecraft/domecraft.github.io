@@ -43,11 +43,13 @@ body {
 #photoToggle{
   color: #4672DA;
   text-align: center;
+  font-style: italic;
 }
 #photoToggle:hover{
   color: #1F46A1;
-  font-style: italic;
   text-align: center;
+  font-style: normal;
+  font-size: 150%;
 }
 header, section, footer {
   display: block;
