@@ -314,6 +314,9 @@ footer {
   color: #ccc;
   overflow: hidden;
 }
+footer:hover{
+  color:#2E2E2E;
+}
 footer a {
   color: #fff;
   font-weight: bold;
