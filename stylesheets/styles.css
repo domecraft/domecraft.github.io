@@ -36,6 +36,8 @@ body {
 }
 #clickContact{
   color: #336600;
+  font-style:italic;
+  text-decoration:underline;
 }
 #clickContact:hover{
   color: #33CC33;
